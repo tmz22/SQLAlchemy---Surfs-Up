@@ -2,7 +2,7 @@
 
 ### Before You Begin
 
-1. Create a new repository for this project called `sqlalchemy-challenge`
+1. Create a new repository for this project called `sqlalchemy-challenge`.
 
 2. Clone the new repository to your computer.
 
