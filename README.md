@@ -1,6 +1,6 @@
 # SQLAlchemy - Surfs Up!
 
-### Before You Begin
+### Before You Begi
 
 1. Create a new repository for this project called `sqlalchemy-challenge`.
 
