@@ -1,4 +1,4 @@
-# SQLAlchemy - Surfs Up!
+# SQLAlchem - Surfs Up!
 
 ### Before You Begin
 
